@@ -52,7 +52,7 @@ A developer from China passionate about backend engineering and DevOps best prac
 
 ### 📘 技术文档博客 / Personal Tech Blog
 > 正在构建：基于 `Obsidian + GitHub Pages + Cloudflare` 实现知识管理到在线分享的闭环。
-> [🌐预览地址](https:dg.8008088.xyz)
+> [🌐预览地址](https://dg.8008088.xyz)
 ---
 
 ## 🧩 闲鱼技术服务 / Freelance Tech Support
