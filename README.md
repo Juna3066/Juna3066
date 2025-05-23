@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/your-github-username?style=social" /></a>
-  <a href="https://github.com/your-github-username?tab=repositories"><img alt="GitHub stars" src="https://img.shields.io/github/stars/your-github-username?style=social" /></a>
+  <a href="https://github.com/Juna3066"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Juna3066?style=social" /></a>
+  <a href="https://github.com/Juna3066?tab=repositories"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Juna3066?style=social" /></a>
   <img alt="Code language" src="https://img.shields.io/badge/language-Java-blue" />
-  <img alt="Code language" src="https://img.shields.io/badge/frontend-Vue.js-brightgreen" />
+  <img alt="Frontend" src="https://img.shields.io/badge/frontend-Vue.js-brightgreen" />
   <img alt="DevOps" src="https://img.shields.io/badge/devops-Kubernetes%20%7C%20Docker%20%7C%20Jenkins-orange" />
 </p>
 
@@ -52,7 +52,7 @@ A developer from China passionate about backend engineering and DevOps best prac
 
 ### 📘 技术文档博客 / Personal Tech Blog
 > 正在构建：基于 `Obsidian + GitHub Pages + Cloudflare` 实现知识管理到在线分享的闭环。
-
+> [🌐预览地址](https:dg.8008088.xyz)
 ---
 
 ## 🧩 闲鱼技术服务 / Freelance Tech Support
@@ -69,7 +69,7 @@ A developer from China passionate about backend engineering and DevOps best prac
 
 ## 📫 联系我 / Contact Me
 
-- GitHub Issues / Discussions
+- GitHub Issues / Discussions [📍](https://github.com/Juna3066)
 - 即将上线个人博客，欢迎交流！
 - 技术交流优先中文，可适配英文
 
@@ -86,4 +86,3 @@ A developer from China passionate about backend engineering and DevOps best prac
 
 > **持续学习，不断构建，从中级走向架构。  
 > Learn. Build. Share. Repeat.**
-
